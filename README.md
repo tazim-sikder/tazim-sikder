@@ -1,4 +1,4 @@
-### Hi there 👋
+I am currently a Senior at Miami University on the way to obtaining my Bachelor of Science in Software Engineering in December 2022. Some of the coursework that I have taken so far include Web Application Development and Software Requirements. My main interest in software engineering is frontend development because I have a tremendous intuition into how consumers would like a products' user interface to look and function. Ultimately, I enjoy being able to customize a system to meet the requirements of its users in a unique and creative way.
 
 <!--
 **tazim-sikder/tazim-sikder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
