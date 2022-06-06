@@ -37,4 +37,4 @@ Here are some ideas to get you started:
   </a>
  <h2> Stats </h2> 
  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tazim-sikder)](https://github.com/tazim-sikder/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tazim-sikder&theme=merko)](https://github.com/tazim-sikder/github-readme-stats)
