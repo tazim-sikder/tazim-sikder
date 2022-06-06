@@ -37,4 +37,5 @@ Here are some ideas to get you started:
   </a>
  <h2> Stats </h2> 
  
+  [!My stats](https://github-readme-streak-stats.herokuapp.com/?user=mariamcbride&show_icons=true&locale=en&layout=compact&theme=material-palenight&line_height=0)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tazim-sikder)](https://github.com/tazim-sikder/github-readme-stats)
