@@ -26,3 +26,12 @@ Here are some ideas to get you started:
 ![css](https://user-images.githubusercontent.com/64758150/171560283-d246ef6e-a8be-471c-af63-1522c45b44a4.svg)
 ![bootstrap](https://user-images.githubusercontent.com/64758150/171561868-c695c5ad-b02b-4d19-ae61-52fafc68a34c.svg)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<h2>Where you can reach me</h2>
+
+ <a href="mailto: tazimsikder100@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:tazimsikder100@gmail.com"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tazim-sikder/">
+   <img src="https://img.shields.io/badge/-LinkedIn-1D2226?style=flat&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/tazim-sikder/"/>
+  </a>
