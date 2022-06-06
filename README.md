@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ![react](https://user-images.githubusercontent.com/64758150/171560256-33933164-c6b7-4d7b-9519-b2620b9c0004.svg)
-![vuejs-ar21](https://user-images.githubusercontent.com/64758150/172113440-296de7b7-aa76-4f94-9351-abe0d5c3f0b3.svg)
 ![javascript](https://user-images.githubusercontent.com/64758150/171560261-a2c9898e-bf54-436d-bd11-d7601fd04de4.svg)
 ![html](https://user-images.githubusercontent.com/64758150/171560274-f4b743aa-ec93-4327-b67f-53c86112a560.svg)
 ![css](https://user-images.githubusercontent.com/64758150/171560283-d246ef6e-a8be-471c-af63-1522c45b44a4.svg)
