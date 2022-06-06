@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ![html](https://user-images.githubusercontent.com/64758150/171560274-f4b743aa-ec93-4327-b67f-53c86112a560.svg)
 ![css](https://user-images.githubusercontent.com/64758150/171560283-d246ef6e-a8be-471c-af63-1522c45b44a4.svg)
 ![bootstrap](https://user-images.githubusercontent.com/64758150/171561868-c695c5ad-b02b-4d19-ae61-52fafc68a34c.svg)
-
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![VUe Badge](https://img.shields.io/badge/-vue-007acc?style=for-the-badge&labelColor=black&logo=VUE&logoColor=007acc)](#)
