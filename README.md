@@ -26,8 +26,3 @@ Here are some ideas to get you started:
 ![css](https://user-images.githubusercontent.com/64758150/171560283-d246ef6e-a8be-471c-af63-1522c45b44a4.svg)
 ![bootstrap](https://user-images.githubusercontent.com/64758150/171561868-c695c5ad-b02b-4d19-ae61-52fafc68a34c.svg)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-<h2>Where You Can Reach Me </h2>
- 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- <a href="google.com"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white /> </a> 
