@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <h2>Where You Can Reach Me </h2>
  
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- <a href="google.com" img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white /> </a> 
+ <a href="google.com"> img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white /> </a> 
