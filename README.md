@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ![react](https://user-images.githubusercontent.com/64758150/171560256-33933164-c6b7-4d7b-9519-b2620b9c0004.svg)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![javascript](https://user-images.githubusercontent.com/64758150/171560261-a2c9898e-bf54-436d-bd11-d7601fd04de4.svg)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![html](https://user-images.githubusercontent.com/64758150/171560274-f4b743aa-ec93-4327-b67f-53c86112a560.svg)
 ![css](https://user-images.githubusercontent.com/64758150/171560283-d246ef6e-a8be-471c-af63-1522c45b44a4.svg)
 ![bootstrap](https://user-images.githubusercontent.com/64758150/171561868-c695c5ad-b02b-4d19-ae61-52fafc68a34c.svg)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
-[![Vue Badge](https://img.shields.io/badge/-3178C6?style=for-the-badge&labelColor=black&logo=VUE&logoColor=007acc)](#)
