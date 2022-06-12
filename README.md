@@ -35,6 +35,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/tazim-sikder/">
    <img src="https://img.shields.io/badge/-LinkedIn-1D2226?style=flat&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/tazim-sikder/"/>
   </a>
- <h2> Stats </h2> 
+ <h2> GitHub Stats 📈</h2> 
  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tazim-sikder&theme=tokyonight)](https://github.com/tazim-sikder/github-readme-stats)
