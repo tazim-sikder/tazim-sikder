@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Technologies</h2>
+<h2>Technologies 💻</h2>
 
 ![react](https://user-images.githubusercontent.com/64758150/171560256-33933164-c6b7-4d7b-9519-b2620b9c0004.svg)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![bootstrap](https://user-images.githubusercontent.com/64758150/171561868-c695c5ad-b02b-4d19-ae61-52fafc68a34c.svg)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<h2>Where you can reach me</h2>
+<h2>Where you can reach me 📫</h2>
 
  <a href="mailto: tazimsikder100@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:tazimsikder100@gmail.com"/>
