@@ -1,4 +1,5 @@
-![My project (10)](https://user-images.githubusercontent.com/64758150/177909814-52a1f7b7-1ffa-4954-bb66-4717796bf1e4.png)
+![My project (10)](https://user-images.githubusercontent.com/64758150/177910004-4a686771-01bc-4b3b-be9f-bc4f3437e90b.png)
+
 
 I am currently a Senior at Miami University on the way to obtaining my Bachelor of Science in Software Engineering in December 2022. Some of the coursework that I have taken so far include Web Application Development and Software Requirements. My main interest in software engineering is frontend development because I have a tremendous intuition into how consumers would like a products' user interface to look and function. Ultimately, I enjoy being able to customize a system to meet the requirements of its users in a unique and creative way.
 
