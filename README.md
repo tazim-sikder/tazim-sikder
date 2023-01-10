@@ -1,7 +1,7 @@
 ![My project (13)](https://user-images.githubusercontent.com/64758150/178322992-50aba077-dada-412c-a01e-4c57d570d590.png)
 
 
-I am currently a senior at Miami University on the way to obtaining my Bachelor of Science in Software Engineering in December 2022. Some of the coursework that I have taken so far include Web Application Development and Software Requirements. My main interest in software engineering is front-end development because I have a tremendous intuition into how consumers would like a products' user interface to look and function. Ultimately, I enjoy being able to customize a system to meet the requirements of its users in a unique and creative way.
+I am a front-end engineer with one year of work experience. My main interest in software engineering is front-end development because I have a tremendous intuition into how consumers would like a products' user interface to look and function. Ultimately, I enjoy being able to customize a system to meet the requirements of its users in a unique and creative way.
 
 <!--
 **tazim-sikder/tazim-sikder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
