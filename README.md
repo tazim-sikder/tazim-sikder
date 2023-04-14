@@ -1,4 +1,4 @@
-![My project-1 (2)](https://user-images.githubusercontent.com/64758150/231947900-2b9b8817-4ffe-43b3-961c-f813b9ba93af.png)
+![My project-1 (3)](https://user-images.githubusercontent.com/64758150/231952970-4f54f5dd-8ca2-4cad-b8d3-bfeb67413969.png)
 
 
 I am a Software Engineer. I am familiar with the entire stack but my main interest in software engineering is front-end development because I have a tremendous intuition into how consumers would like a products' user interface to look and function. Ultimately, I enjoy being able to customize a system to meet the requirements of its users in a unique and creative way.
