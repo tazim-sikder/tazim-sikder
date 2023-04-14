@@ -1,7 +1,7 @@
 ![My project-1 (3)](https://user-images.githubusercontent.com/64758150/231953100-8ac09f8d-eb4d-44f2-b8ce-d351304fcf8f.png)
 
 
-I am a Software Engineer. I am familiar with the entire stack but my main interest in software engineering is front-end development because I have a tremendous intuition into how consumers would like a products' user interface to look and function. Ultimately, I enjoy being able to customize a system to meet the requirements of its users in a unique and creative way.
+Hello, I am a Software Engineer. I enjoy working on all parts of the stack but my main interest in Software Engineering is Front End Development because I have a tremendous intuition into how consumers would like a products' user interface to look and function. Ultimately, I enjoy being able to customize a system to meet the requirements of its users in a unique and creative way.
 
 <!--
 **tazim-sikder/tazim-sikder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
