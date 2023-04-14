@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2>Technologies 💻</h2>
 
 ![react](https://user-images.githubusercontent.com/64758150/171560256-33933164-c6b7-4d7b-9519-b2620b9c0004.svg)
-![node.js]("https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg")
+("https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg")
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![javascript](https://user-images.githubusercontent.com/64758150/171560261-a2c9898e-bf54-436d-bd11-d7601fd04de4.svg)
